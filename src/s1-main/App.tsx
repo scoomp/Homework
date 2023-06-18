@@ -7,8 +7,8 @@ import HW7 from "../s2-homeworks/hw07/HW7";
 function App() {
     return (
         <div className={s.App}>
-            <HW5/>
-            <HW6/>
+            {/*<HW5/>
+            <HW6/>*/}
             <HW7/>
 
         </div>
